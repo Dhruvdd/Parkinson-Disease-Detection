@@ -5,7 +5,7 @@
 It is a neurodegenerative disorder that affects predominately dopamine-producing (“dopaminergic”) neurons in a specific area of the brain.
 It affects the Central Nervous System o four brain which leads to balance problems, continuosly rolling something (tremor).
 
-## How we detect using the Algorithms.
+## How we detect using the Machine Learning Algorithms.
 
 So, inorder to detect the Parkinson's Disease early we have used the machine learning algorithms such as XGBoost, Random Forest.
 
