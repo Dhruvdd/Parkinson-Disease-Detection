@@ -7,6 +7,8 @@ It affects the Central Nervous System o four brain which leads to balance proble
 
 ## How we detect using the Machine Learning Algorithms.
 
+In general there are not specific test for thr detection of the disease as others. So it can be only found when one has started suffering. 
+
 So, inorder to detect the Parkinson's Disease early we have used the machine learning algorithms such as XGBoost, Random Forest.
 
 In our training and testing the best fitted model we have find with best accuracy is XGBoost which has accuracy of 94%.
